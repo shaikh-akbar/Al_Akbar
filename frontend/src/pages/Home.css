@@ -1,0 +1,19 @@
+.product-card{
+    width: 100px;
+}
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; /* Adjust height as needed */
+}
+
+.login-message {
+    text-align: center;
+    margin: 20px 0;
+    color: #333;
+}
+
+.login-message h2 {
+    color: #333;
+}
